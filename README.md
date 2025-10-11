@@ -1,6 +1,25 @@
 ## Hi, l'm Adrienne Nankep Osseu. I'm passionate aboute Cloud Technologies and Devsecops 👋
 
 
+### 👨‍💼 
+
+<h2>👨‍💻 Cloud and Devescops Projects:</h2>
+
+- <b>Implement-End to End DevSecOps Pipeline-for-Amazon-website-Clone (AlgoExpert)</b>
+  - https://github.com/adrydry/Implement-DevSecOps-for-Amazon-website-Clone/tree/main
+- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>PowerShell</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b>C# (.NET Desktop Applications)</b>
+  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>Python</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,18 +50,26 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adrydry&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
 
 ---
-### 🔥 GitHub Contribution Streak
 
-![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
 
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jaiswaladi246&limit=5&theme=flat&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=adrydry&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ---
 
-### 👨‍💼 About Me & 🤝 Open to Collaborations
+
+
+
+
+
+
+
+
+
+
+
 - 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246)  
 - 💬 Ask me about **DevOps & Cloud DevOps**  
 - 📫 How to reach me **office@devopsshack.com**
