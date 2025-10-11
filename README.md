@@ -51,6 +51,7 @@
 ---
 ###  Degree
 Master in Cloud from UMGC
+Aws Cloud Institute Student
 
 ###  Certifications
 <img width="192" height="234" alt="image" src="https://github.com/user-attachments/assets/be9279b6-0d14-4e5b-bd61-45271c3b339a" />
@@ -59,7 +60,7 @@ Master in Cloud from UMGC
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/adrienne-nankep-500b33259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> or send me an at nankep2022@gmail.com
+  <a href="https://linkedin.com/in/adrienne-nankep-500b33259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> or send me an email at nankep2022@gmail.com
 
 </p>
 
