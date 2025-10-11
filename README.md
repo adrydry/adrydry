@@ -2,7 +2,7 @@
 
  
 
-<h2>👨‍💻 Cloud and Devescops Projects:</h2>
+<h2>👨‍💻 My best Cloud and Devescops Projects:</h2>
 
 - <b>Implement-End to End DevSecOps Pipeline-for-Amazon-website-Clone
   - https://github.com/adrydry/Implement-DevSecOps-for-Amazon-website-Clone/tree/main
@@ -14,6 +14,10 @@
   - https://github.com/adrydry/Jenkins-CI-CD-Pipeline---Sonarqube-Docker-Github-Webhooks-on-AWS)
 - <b>Execute a spring boot Application</b>
   - https://github.com/adrydry/Execute-a-Spring-Boot-Application
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=adrydry&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/adrydry](https://github.com/adrydry)
   
