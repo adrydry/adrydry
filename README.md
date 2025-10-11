@@ -51,6 +51,7 @@
 ---
 ###  Degree
 Master in Cloud from UMGC
+
 Aws Cloud Institute Student
 
 ###  Certifications
