@@ -10,7 +10,8 @@
   - Kubernetes CICD with Jenkins:https://github.com/adrydry/Kubernetes-CI-CD-using-Jenkins;
   - CICD with Sonarqube on AWS:https://github.com/adrydry/Jenkins-CI-CD-Pipeline---Sonarqube-Docker-Github-Webhooks-on-AWS
 - <b>Deploy a Java Application </b>
-  - (https://github.com/adrydry/Deploy-a-Java-Application-on-Jenkins)
+  - On AWS: (https://github.com/adrydry/Deploy-a-Java-Application-on-Jenkins);
+  - On Tomcat Server: https://github.com/adrydry/Deploy-Java-Application-on-Tomcat-Server
 - <b>Execute a spring boot Application</b>
   - https://github.com/adrydry/Execute-a-Spring-Boot-Application
 
