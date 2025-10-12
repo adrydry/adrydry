@@ -5,10 +5,11 @@
 <h2>👨‍💻 My best Cloud and Devescops Projects:</h2>
 
 - <b>Implement-End to End DevSecOps Pipeline
-  - Aws Website Clone: https://github.com/adrydry/Implement-DevSecOps-for-Amazon-website-Clone/tree/main
+  - Aws Website Clone: https://github.com/adrydry/Implement-DevSecOps-for-Amazon-website-Clone/tree/main;
+  - Netflix Website Clone: https://github.com/adrydry/Netflix-Clone-on-AWS
   - Aws CICD Pipelines: https://github.com/adrydry/End-to-End-AWS_CICD-Pipelines;
   - Kubernetes CICD with Jenkins:https://github.com/adrydry/Kubernetes-CI-CD-using-Jenkins;
-  - CICD with Sonarqube on AWS:https://github.com/adrydry/Jenkins-CI-CD-Pipeline---Sonarqube-Docker-Github-Webhooks-on-AWS
+  - CICD with Sonarqube on AWS:https://github.com/adrydry/Jenkins-CI-CD-Pipeline---Sonarqube-Docker-Github-Webhooks-on-AWS;
   - CICD with Jenkins and Terraform: https://github.com/adrydry/MyDevopsProjects/blob/main/Project1
 - <b>Deploy a Cloud Native Application on Kubernetes </b>
   - https://github.com/adrydry/Projects/blob/main/Kubernetes.md/Project1.md;   
