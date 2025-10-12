@@ -4,14 +4,13 @@
 
 <h2>👨‍💻 My best Cloud and Devescops Projects:</h2>
 
-- <b>Implement-End to End DevSecOps Pipeline-for-Amazon-website-Clone
-  - https://github.com/adrydry/Implement-DevSecOps-for-Amazon-website-Clone/tree/main
+- <b>Implement-End to End DevSecOps Pipeline
+  - Aws Website Clone: https://github.com/adrydry/Implement-DevSecOps-for-Amazon-website-Clone/tree/main
+  - Aws CICD Pipelines: https://github.com/adrydry/End-to-End-AWS_CICD-Pipelines;
+  - Kubernetes CICD with Jenkins:https://github.com/adrydry/Kubernetes-CI-CD-using-Jenkins;
+  - CICD with Sonarqube on AWS:https://github.com/adrydry/Jenkins-CI-CD-Pipeline---Sonarqube-Docker-Github-Webhooks-on-AWS
 - <b>Deploy a Java Application </b>
   - (https://github.com/adrydry/Deploy-a-Java-Application-on-Jenkins)
-- <b>Implement a Kubernetes CICD using Jenkins</b>
-  - https://github.com/adrydry/Kubernetes-CI-CD-using-Jenkins
-- Implement CICD with Sonarqube on AWS
-  - https://github.com/adrydry/Jenkins-CI-CD-Pipeline---Sonarqube-Docker-Github-Webhooks-on-AWS)
 - <b>Execute a spring boot Application</b>
   - https://github.com/adrydry/Execute-a-Spring-Boot-Application
 
