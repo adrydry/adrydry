@@ -3,8 +3,7 @@
 
 
  <h2>👨‍💻 Some IT related Projects:</h2>
-- <b> Create Active Directory and my Domain Name: https://github.com/adrydry/IT-Support/blob/main/Understanding%20Active%20Directory%20and%20Building%20Your%20First%20Domain
- 
+- <b> Create a request on Jira : https://docs.google.com/document/d/1hVap2peqEccwAyPyIudYL5FW-MyytP7o/edit#heading=h.ee4b5mo6kah3
 
 <h2>👨‍💻 Some DevOps and Cloud related Projects:</h2>
 
