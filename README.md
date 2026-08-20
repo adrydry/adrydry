@@ -1,8 +1,12 @@
-## Hi, l'm Adrienne Nankep Osseu. I'm passionate aboute Cloud Technologies and Devsecops 👋
+## Hi, l'm Adrienne Nankep Osseu. I'm an IT Professional, passionate about Cloud Technologies and Devsecops 👋
 
+
+
+ <h2>👨‍💻 Some IT related Projects:</h2>
+- <b> Create Active Directory and my Domain Name
  
 
-<h2>👨‍💻 My best Cloud and Devescops Projects:</h2>
+<h2>👨‍💻 Some DevOps and Cloud related Projects:</h2>
 
 - <b>Implement-End to End DevSecOps Pipeline
   - Aws Website Clone: https://github.com/adrydry/Implement-DevSecOps-for-Amazon-website-Clone/tree/main;
